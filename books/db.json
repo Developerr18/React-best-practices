@@ -1,3 +1,8 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "Dark tower",
+      "id": 2
+    }
+  ]
 }
