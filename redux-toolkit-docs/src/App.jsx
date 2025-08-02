@@ -1,3 +1,9 @@
+import { Counter } from "./features/counter/Counter";
+
 export default function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <Counter />
+    </div>
+  );
 }
